@@ -1,0 +1,11 @@
+Wrong app Live Code
+https://github.com/stalmcdonald/mcdonald_crystal_wrongp2
+
+Wrong App Live Link
+http://stalmcdonald.github.com/MiU/mcdonald_crystal_wrongp2/index.html
+
+Working app Live Code
+https://github.com/stalmcdonald/mcdonald_crystal_project2
+
+Working app Live Code
+http://stalmcdonald.github.com/mcdonald_crystal_project2/index.html

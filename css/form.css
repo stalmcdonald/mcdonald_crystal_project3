@@ -1,0 +1,97 @@
+/*
+
+//Crystal McDonald
+//Mobile Interfaces and Usability (MiU)
+//Full Sail University
+//November 10, 2011
+//Project 3
+
+*/
+
+/* Make it look like an iPhone */
+
+
+body{
+	font-family: "Lucida Grande", "Arial", sans-serif;margin: auto;padding: 10px;
+
+	
+}
+#site-wrapper{
+	background: url(../img/iphoneBG.jpg) no-repeat;height: 885px; padding-top:25;
+}
+#content{
+	width: 480px;height: 690px;overflow: scroll;
+}
+
+/* Font normalization 
+ */
+
+body { 
+	font:12px/1.231 sans-serif; *font-size:small; 
+}
+select, input, textarea, button { 
+	font:99% sans-serif; 
+}
+
+legend {
+	font-size: 1em; color: #e80a64;   text-align: left; line-height: 1.6em;
+}
+
+body{
+	/* background: #2D1E44; */ text-align: center;font-family:  "HelveticaNeue-Light","HelveticaNeue",Helvetica,Arial,sans-serif; font-weight: light; 
+}
+/* css for food form only*/
+
+  
+span{
+	color: #e80a64;
+	font-size: large;
+}
+
+label.error{
+	display: block; margin: 10 px 0; color: #cc0000;
+	font-size: 14px; 
+}
+
+fferrorslink{
+	display: none;
+}
+/* Headers*/
+h1 {
+	color: #DA1D68; font-size: 6em; margin: 0 0 32px 0;
+}
+h2 {
+	color: #fff; font-size: 1.9em; margin: 0 0 3px 0;
+}
+p {
+	 color: #DA1D68;   text-align: left; line-height: 1.6em; 
+}
+
+p1{
+	color: orange;
+
+}
+
+p2{
+	padding: 20px 0;
+	color:gray;
+}
+
+/* tag for main li*/
+.ui-content{
+	color:  black;
+}
+li{
+	color:   #DA1D68;
+}
+
+p{
+	font-size: 14px;
+}
+
+
+ui-body ui-body-b{
+	float: right;
+}
+
+
